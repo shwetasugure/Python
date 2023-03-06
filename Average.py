@@ -1,3 +1,4 @@
+// Average of 3 numbers
 a = int(input("Enter first Number:"))
 b = int(input("Enter Second Number:"))
 c = int(input("Enter Third Number:"))
