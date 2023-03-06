@@ -1,3 +1,5 @@
+// Even or odd number
+
 x=int(input('Enter Number:'))
 a=x%2
 if(a==0):
